@@ -1,0 +1,1 @@
+export const nikhil={name:'nikhil',favNo:'3',developer:true};
